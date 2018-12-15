@@ -1,0 +1,2 @@
+# bussiness-money
+open all
